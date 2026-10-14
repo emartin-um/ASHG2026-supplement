@@ -1,6 +1,6 @@
 # African and Indigenous American ancestry shape plasma CNS biomarker baselines within and across populations, modifying Alzheimer's disease trajectories
 
-**ASHG 2026 · Montréal · poster board 1003W, Wednesday 21 October 2026, 2:30 to 4:30 PM**, presented on behalf of the **DAWN study** and the **African Dementia Consortium (AfDC)**.
+**ASHG 2026 · Montréal · poster board 1003W, Wednesday 21 October 2026, 2:30 to 4:30 PM**. Contributing studies and consortia: **DAWN**, **PeADI**, **PRADI** and the **African Dementia Consortium (AfDC)**.
 
 Eden R. Martin, Tianjie Gu, Olabode Omotoso, Lissette Gomez, Maryanella Illanes-Manrique, Kazeem Sanjo Akinwande, Patrice Whitehead, Michael Cuccaro, Alfred Kongnyu Njamnshi, Njideka Okubadejo, Jean Ikanga, Damas Andrea, Michelle Nichols, Olusegun Baiyewu, Mayowa Owolabi, Rajesh Kalaria, Brian Kunkle, Jeffery Vance, Christiane Reitz, Giuseppe Tosto, William Bush, Jonathan Haines, Adesola Ogunniyi, Goldie Byrd, Farid Rajabli, Rufus Akinyemi, Mario Cornejo-Olivas, Margaret A. Pericak-Vance, Anthony Griswold.
 
