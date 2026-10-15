@@ -34,6 +34,7 @@ This is the supplement behind the poster's QR code.
 - `cutpoint_by_group_lot.csv`, `bdptau217_cut_by_site_lot.csv`: the cut-point results by group and by site.
 - `e4_slope_by_group_lot.csv`, `e4_slope_by_group_lot_nci.csv`: the ε4 slopes.
 - `regional_results.csv`: the regional contrasts, every design.
+- `site_inference.csv`: the ancestry omnibus per protein with its χ² p and its site-level bootstrap p.
 - `aa_gradient.csv`: the AA vs HI-WH difference against the African vs HI-WH difference, per protein.
 - `wgs_pqtl_pairs.csv`, `wgs_pqtl_per_protein.csv`, `wgs_pqtl_screen.csv`, `wgs_pqtl_numbers.txt`: the full genotype table, per variant, per protein, and the screen.
 

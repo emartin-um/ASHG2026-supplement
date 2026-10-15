@@ -74,7 +74,9 @@ the lots agree (between-lot I² below 50% and Cochran's Q p above 0.05) and othe
 always are for class-1 markers. The gate is anti-conservative: under the global null the gated test rejects at 0.073
 for a nominal 0.05, so FDR counts are optimistic by about 1.5-fold and are best read as comparisons between analyses.
 HI-WH comes from three sites per lot, so counts that lean on the HI-WH reference are anti-conservative beyond the gate
-as well; a site-level bootstrap is in progress.
+as well. A parametric bootstrap of test 1 that redraws the site and run effects under the null (999 draws per marker and
+lot) gives 62 of 126 at FDR < 0.05 in place of 68; the null χ² runs about 10% above its degrees of freedom, and the six
+that drop out are at the margin (tables/site_inference.csv).
 
 **Tests.** FDR is Benjamini-Hochberg over the 126 proteins, separately for each test, at 0.05.
 1. Ancestry, all diagnoses: ancestry + diagnosis + covariates against diagnosis + covariates, all 4,273 participants
