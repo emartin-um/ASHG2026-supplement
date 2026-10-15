@@ -76,11 +76,11 @@ for a nominal 0.05, so FDR counts are optimistic by about 1.5-fold and are best 
 HI-WH comes from three sites per lot, so counts that lean on the HI-WH reference are anti-conservative beyond the gate
 as well. A parametric bootstrap of test 1 that redraws the site and run effects under the null (999 draws per marker and
 lot) gives 62 of 126 at FDR < 0.05 in place of 68; the null χ² runs about 10% above its degrees of freedom, and the six
-that drop out are at the margin (tables/site_inference.csv).
+that drop out are at the margin (tables/site_inference.csv). The poster reports the bootstrap count.
 
 **Tests.** FDR is Benjamini-Hochberg over the 126 proteins, separately for each test, at 0.05.
 1. Ancestry, all diagnoses: ancestry + diagnosis + covariates against diagnosis + covariates, all 4,273 participants
-   (3 df per lot). This is the poster's 68 of 126.
+   (3 df per lot): 68 of 126 by the χ² reference, 62 by the parametric bootstrap above; the poster reports 62.
 2. Ancestry at NCI: the same test within cognitively normal participants, without the diagnosis term.
 3. Pairwise contrasts at NCI: HI-MU, AA and AFR each against HI-WH, a Wald test on the gated estimate. The poster's
    49 (AFR), 38 (AA) and 3 (HI-MU) [section 1].
@@ -120,9 +120,10 @@ number.
 
 ## Regional contrasts within a group [section 3]
 
-Two contrasts designed so that region is not the same thing as recruitment site. Andean versus Caribbean HI-MU inside
-one site (CU: 53 Andean, 379 Caribbean; region + diagnosis + covariates + (1 | run / bay)), because 197 of the 260
-Andean participants come from the Peru site, which no Caribbean participant attends. East versus West Africa within the
+Two contrasts designed so that region is not the same thing as recruitment site. Peruvian and Ecuadorian versus
+Caribbean HI-MU inside one New York site (CU: 53 born in Peru, Ecuador or Bolivia (25, 27, 1), 379 Caribbean; region +
+diagnosis + covariates + (1 | run / bay)), because 197 of the 260 HI-MU participants born in Peru, Ecuador, Bolivia or
+Chile come from the Peru site, which no Caribbean participant attends. East versus West Africa within the
 African group, region being the recruiting site's country (West: Nigeria, Ghana, Cameroon; East: Ethiopia, Kenya,
 Tanzania, Uganda, Mozambique), with region fixed and site random, so the contrast is tested against site-to-site
 variation. Both fitted within lot and combined as above. Fig 5 shows the survivors with a functional category

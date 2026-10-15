@@ -23,7 +23,7 @@ This is the supplement behind the poster's QR code.
 - `fig3a_e4_by_group.png` and `fig3a_e4_by_group_nci.png`: the ε4 slope on p-tau and NEFL by group and lot, all diagnoses and cognitively normal only (the poster carries this as text).
 - `fig4a_interaction_arms.png`: the ancestry × diagnosis interactions under six model arms.
 - `fig4b_ad_effect_by_group.png`: AD minus cognitively normal within each group, both lots, eight markers.
-- `fig5_regional.png`: Andean vs Caribbean within one site; East vs West Africa with site in the model.
+- `fig5_regional.png`: Peruvian and Ecuadorian vs Caribbean within one site; East vs West Africa with site in the model.
 - `fig6_cutpoint_by_group.png`: one cut-point per lot applied to every group, five markers.
 
 ## Tables (`tables/`)
