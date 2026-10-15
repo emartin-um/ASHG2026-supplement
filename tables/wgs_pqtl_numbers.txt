@@ -1,0 +1,140 @@
+WGS extract: 2538 people, 82 variants listed, 74 with calls (8 chrX entries without calls: VEGFD_region, rs142502781, PGK1_region, CD40LG_region, rs5975709, rs3030366, rs36206512, GDI1_region)
+in the cohort: 2278 of 4273 with WGS (HI_WH 341, HI_MU 632, AA 1123, AFR 182); 61 variants called in them (not called: rs6733839 rs1473577 rs62175990 rs8179522 chr5:43879356 rs76239079 rs775489 rs10879010 rs144300056 rs112652363 chr15:98962179 chr19:1056583 chr19:44910512)
+  WGS by group x lot (2025/2026): HI_WH 330/11; HI_MU 624/8; AA 712/411; AFR 0/182
+
+== Screen: 61 variants x 131 proteins = 7860 tests; Bonferroni p < 6.4e-06: 38 pairs
+  APOE4      rs429358       b +7.978 (se 0.074) p 0.0e+00  pre-specified | freq AFR 0.30 HI-WH 0.12
+  GDF15      rs1058587      b -1.994 (se 0.046) p 0.0e+00  pre-specified | freq AFR 0.13 HI-WH 0.19
+  APOE4      rs148353395    b +6.876 (se 0.225) p 2.1e-204 | freq AFR 0.15 HI-WH 0.02
+  CHIT1      rs150192398    b -2.789 (se 0.102) p 1.5e-164  pre-specified | freq AFR 0.02 HI-WH 0.26
+  IL6R       rs2228145      b +0.330 (se 0.012) p 2.1e-163  pre-specified | freq AFR 0.09 HI-WH 0.43
+  CCL2       rs2814778      b -0.358 (se 0.022) p 5.2e-60 | freq AFR 0.99 HI-WH 0.14
+  TREM2      rs2234256      b -0.495 (se 0.031) p 8.4e-57  pre-specified | freq AFR 0.14 HI-WH 0.03
+  CCL26      rs2814778      b -0.266 (se 0.024) p 1.1e-28 | freq AFR 0.99 HI-WH 0.14
+  CCL4       rs1130371      b -0.355 (se 0.034) p 9.3e-26 | freq AFR 0.10 HI-WH 0.21
+  CCL17      rs9302690      b +0.318 (se 0.031) p 1.8e-24  pre-specified | freq AFR 0.68 HI-WH 0.18
+  APOE       rs429358       b -0.162 (se 0.017) p 1.2e-20 | freq AFR 0.30 HI-WH 0.12
+  BD_pTau_217 rs429358       b +0.145 (se 0.016) p 1.7e-19 | freq AFR 0.30 HI-WH 0.12
+  pTau_217   rs429358       b +0.223 (se 0.026) p 5.4e-18 | freq AFR 0.30 HI-WH 0.12
+  BD_pTau_181 rs429358       b +0.230 (se 0.027) p 6.6e-18 | freq AFR 0.30 HI-WH 0.12
+  TIMP3      rs4339044      b +0.589 (se 0.070) p 2.8e-17  pre-specified | freq AFR 0.02 HI-WH 0.17
+  APOE4      rs7412         b -2.265 (se 0.271) p 5.7e-17 | freq AFR 0.10 HI-WH 0.04
+  ANXA5      rs73844249     b -0.318 (se 0.041) p 6.9e-15  pre-specified | freq AFR 0.09 HI-WH 0.24
+  GFAP       rs429358       b +0.199 (se 0.026) p 7.5e-15 | freq AFR 0.30 HI-WH 0.12
+  APOE       rs141622900    b +0.218 (se 0.029) p 2.0e-14 | freq AFR 0.11 HI-WH 0.03
+  APOE       rs7412         b +0.200 (se 0.026) p 2.5e-14 | freq AFR 0.10 HI-WH 0.04
+  TREM2      rs1582763      b +0.170 (se 0.023) p 1.6e-13  pre-specified | freq AFR 0.07 HI-WH 0.39
+  APOE4      rs141622900    b -2.143 (se 0.295) p 3.9e-13 | freq AFR 0.11 HI-WH 0.03
+  pTau_231   rs429358       b +0.173 (se 0.025) p 7.8e-12 | freq AFR 0.30 HI-WH 0.12
+  APOE       rs61679753     b +0.162 (se 0.026) p 3.2e-10 | freq AFR 0.12 HI-WH 0.03
+  BD_pTau_231 rs429358       b +0.056 (se 0.009) p 4.4e-10 | freq AFR 0.30 HI-WH 0.12
+  APOE       rs148353395    b -0.153 (se 0.026) p 3.0e-09 | freq AFR 0.15 HI-WH 0.02
+  CRP        rs429358       b -0.314 (se 0.054) p 5.8e-09 | freq AFR 0.30 HI-WH 0.12
+  CHI3L1     rs2297838      b +0.201 (se 0.035) p 7.0e-09  pre-specified | freq AFR 0.55 HI-WH 0.31
+  IL6R       rs2814778      b -0.066 (se 0.011) p 1.0e-08 | freq AFR 0.99 HI-WH 0.14
+  PGK1       rs150192398    b +0.183 (se 0.033) p 1.7e-08 | freq AFR 0.02 HI-WH 0.26
+  CCL17      rs2814778      b +0.168 (se 0.030) p 3.3e-08 | freq AFR 0.99 HI-WH 0.14
+  ICAM1      rs75932628     b -1.260 (se 0.237) p 1.1e-07 | freq AFR 0.00 HI-WH 0.00
+  FGF2       chr4:122650985 b +0.244 (se 0.048) p 3.2e-07 | freq AFR 0.21 HI-WH 0.14
+  APOE4      rs61679753     b -1.361 (se 0.266) p 3.2e-07 | freq AFR 0.12 HI-WH 0.03
+  IL6        rs2228145      b +0.108 (se 0.022) p 4.8e-07 | freq AFR 0.09 HI-WH 0.43
+  CHI3L1     rs150192398    b +0.249 (se 0.053) p 2.1e-06 | freq AFR 0.02 HI-WH 0.26
+  CCL26      rs75932628     b +2.390 (se 0.523) p 5.0e-06 | freq AFR 0.00 HI-WH 0.00
+  pTau_181   rs429358       b +0.113 (se 0.025) p 6.1e-06 | freq AFR 0.30 HI-WH 0.12
+  Duffy-null rs2814778 (freq AFR 0.99, HI-WH 0.14) vs the panel's chemokines: CCL2 -0.36 (p 5e-60); CCL26 -0.27 (p 1e-28); CCL17 +0.17 (p 3e-08); CCL11 -0.05 (p 0.002); CCL13 -0.04 (p 0.04); CCL22 +0.02 (p 0.1); CXCL1 +0.05 (p 0.1); CCL4 +0.03 (p 0.2); CX3CL1 -0.01 (p 0.6); CCL3 +0.02 (p 0.7); CXCL10 -0.00 (p 0.9); CXCL8 +0.00 (p 0.9)
+  screen pairs added to the per-protein predictions (17): APOE4 rs148353395; CCL2 rs2814778; CCL26 rs2814778; CCL4 rs1130371; APOE rs429358; APOE4 rs7412; APOE rs141622900; APOE rs7412; APOE4 rs141622900; APOE rs61679753; APOE rs148353395; IL6R rs2814778; CCL17 rs2814778; FGF2 chr4:122650985; APOE4 rs61679753; IL6 rs2228145; CHI3L1 rs150192398
+
+== Pre-specified pairs: 46 variants, 31 proteins; per-allele effect FDR < 0.05 in the cohort for 24 variants (19 proteins)
+  APOE4    rs429358     APOE e4 (positive control)     b +8.520 (se 0.079, p 0.0e+00, pooled) | AFR alone +8.073 (se 0.384) | freq AFR 0.30 HI-WH 0.12 AA 0.22 HI-MU 0.14 | pred +3.150
+  GDF15    rs1058587    cis-pQTL (v1.5 table)          b -2.096 (se 0.049, p 0.0e+00, 2025) | AFR alone -1.224 (se 0.153) | freq AFR 0.13 HI-WH 0.19 AA 0.15 HI-MU 0.16 | pred +0.241
+  CHIT1    rs150192398  24-bp duplication (cis)        b -3.303 (se 0.109, p 5.3e-202, 2025) | AFR alone -4.151 (se 0.726) | freq AFR 0.02 HI-WH 0.26 AA 0.05 HI-MU 0.21 | pred +1.534
+  IL6R     rs2228145    Asp358Ala (cis)                b +0.405 (se 0.014, p 6.1e-196, pooled) | AFR alone +0.407 (se 0.073) | freq AFR 0.09 HI-WH 0.43 AA 0.13 HI-MU 0.41 | pred -0.273
+  CCL2     rs2814778    found in the screen            b -0.690 (se 0.032, p 5.3e-103, 2025) | AFR alone +0.062 (se 0.386) | freq AFR 0.99 HI-WH 0.14 AA 0.84 HI-MU 0.28 | pred -1.182
+  TREM2    rs2234256    L211P (cis)                    b -0.529 (se 0.032, p 1.2e-61, pooled) | AFR alone -0.584 (se 0.101) | freq AFR 0.14 HI-WH 0.03 AA 0.13 HI-MU 0.05 | pred -0.116
+  CCL26    rs2814778    found in the screen            b -0.471 (se 0.036, p 1.4e-38, 2025) | AFR alone -0.485 (se 0.670) | freq AFR 0.99 HI-WH 0.14 AA 0.84 HI-MU 0.28 | pred -0.808
+  CCL4     rs1130371    found in the screen            b -0.420 (se 0.039, p 1.6e-26, 2025) | AFR alone +0.007 (se 0.109) | freq AFR 0.10 HI-WH 0.21 AA 0.13 HI-MU 0.15 | pred +0.092
+  CCL17    rs9302690    cis-pQTL (v1.5 table)          b +0.371 (se 0.035, p 2.1e-26, pooled) | AFR alone +0.219 (se 0.114) | freq AFR 0.68 HI-WH 0.18 AA 0.57 HI-MU 0.24 | pred +0.373
+  TIMP3    rs4339044    cis-pQTL (v1.5 table)          b +0.635 (se 0.073, p 3.2e-18, pooled) | AFR alone +0.297 (se 0.439) | freq AFR 0.02 HI-WH 0.17 AA 0.04 HI-MU 0.10 | pred -0.184
+  ANXA5    rs73844249   cis-pQTL (v1.5 table)          b -0.340 (se 0.043, p 2.1e-15, pooled) | AFR alone -0.411 (se 0.275) | freq AFR 0.09 HI-WH 0.24 AA 0.13 HI-MU 0.21 | pred +0.102
+  TREM2    rs1582763    MS4A4A (sTREM2 locus)          b +0.190 (se 0.026, p 2.8e-13, 2025) | AFR alone +0.438 (se 0.131) | freq AFR 0.07 HI-WH 0.39 AA 0.09 HI-MU 0.31 | pred -0.120
+  CCL17    rs2814778    found in the screen            b +0.282 (se 0.042, p 2.4e-11, pooled) | AFR alone +1.142 (se 0.713) | freq AFR 0.99 HI-WH 0.14 AA 0.84 HI-MU 0.28 | pred +0.483
+  APOE     rs429358     found in the screen            b -0.146 (se 0.023, p 3.4e-10, pooled) | AFR alone -0.263 (se 0.072) | freq AFR 0.30 HI-WH 0.12 AA 0.22 HI-MU 0.14 | pred -0.054
+  CHI3L1   rs2297838    cis-pQTL (v1.5 table)          b +0.311 (se 0.053, p 3.5e-09, 2025) | AFR alone +0.526 (se 0.164) | freq AFR 0.55 HI-WH 0.31 AA 0.52 HI-MU 0.36 | pred +0.151
+  IL6      rs2228145    found in the screen            b +0.137 (se 0.024, p 1.8e-08, pooled) | AFR alone +0.428 (se 0.181) | freq AFR 0.09 HI-WH 0.43 AA 0.13 HI-MU 0.41 | pred -0.092
+  FGF2     chr4:122650985 found in the screen            b +0.261 (se 0.050, p 1.5e-07, pooled) | AFR alone +0.153 (se 0.160) | freq AFR 0.21 HI-WH 0.14 AA 0.23 HI-MU 0.18 | pred +0.037
+  CHI3L1   rs150192398  found in the screen            b +0.298 (se 0.057, p 1.6e-07, pooled) | AFR alone +1.009 (se 0.494) | freq AFR 0.02 HI-WH 0.26 AA 0.05 HI-MU 0.21 | pred -0.138
+  SMOC1    rs1958078    cis-pQTL (v1.5 table)          b +0.145 (se 0.029, p 7.8e-07, pooled) | AFR alone +0.166 (se 0.086) | freq AFR 0.49 HI-WH 0.75 AA 0.55 HI-MU 0.75 | pred -0.075
+  CHI3L1   rs880633     cis-pQTL (v1.5 table)          b +0.220 (se 0.053, p 3.6e-05, 2025) | AFR alone +0.489 (se 0.226) | freq AFR 0.16 HI-WH 0.38 AA 0.23 HI-MU 0.31 | pred -0.099
+  CCL22    rs9935504    cis-pQTL (v1.5 table)          b +0.084 (se 0.021, p 5.4e-05, pooled) | AFR alone +0.119 (se 0.068) | freq AFR 0.37 HI-WH 0.17 AA 0.30 HI-MU 0.18 | pred +0.033
+  ACHE     rs12538287   cis-pQTL (v1.5 table)          b +0.051 (se 0.019, p 8.2e-03, pooled) | AFR alone -0.019 (se 0.095) | freq AFR 0.08 HI-WH 0.40 AA 0.11 HI-MU 0.38 | pred -0.033
+  APOE4    rs7412       found in the screen            b -0.477 (se 0.188, p 1.1e-02, pooled) | AFR alone +0.229 (se 1.048) | freq AFR 0.10 HI-WH 0.04 AA 0.10 HI-MU 0.06 | pred -0.061
+  IGFBP7   rs1618761    cis-pQTL (v1.5 table)          b -0.043 (se 0.018, p 1.5e-02, pooled) | AFR alone -0.067 (se 0.057) | freq AFR 0.90 HI-WH 0.92 AA 0.92 HI-MU 0.91 | pred +0.001
+  MME      rs10611660   cis-pQTL (v1.5 table)          b -0.182 (se 0.090, p 4.3e-02, pooled) | AFR alone -0.235 (se 0.267) | freq AFR 0.21 HI-WH 0.05 AA 0.18 HI-MU 0.07 | pred -0.059
+  APOE     rs141622900  found in the screen            b +0.097 (se 0.049, p 4.8e-02, pooled) | AFR alone +0.042 (se 0.165) | freq AFR 0.11 HI-WH 0.03 AA 0.08 HI-MU 0.05 | pred +0.015
+  NPY      rs16147      promoter (cis)                 b -0.085 (se 0.043, p 5.0e-02, 2025) | AFR alone +0.069 (se 0.139) | freq AFR 0.38 HI-WH 0.49 AA 0.37 HI-MU 0.57 | pred +0.019
+  BD_MAPT  rs8070723    MAPT H1/H2 (v1.5 table)        b +0.016 (se 0.009, p 6.3e-02, pooled) | AFR alone +0.047 (se 0.043) | freq AFR 0.14 HI-WH 0.21 AA 0.16 HI-MU 0.17 | pred -0.002
+  FABP3    rs12401792   cis-pQTL (v1.5 table)          b -0.042 (se 0.025, p 1.0e-01, pooled) | AFR alone +0.052 (se 0.093) | freq AFR 0.09 HI-WH 0.27 AA 0.11 HI-MU 0.29 | pred +0.016
+  IL6R     rs2814778    found in the screen            b -0.022 (se 0.014, p 1.3e-01, pooled) | AFR alone -0.107 (se 0.278) | freq AFR 0.99 HI-WH 0.14 AA 0.84 HI-MU 0.28 | pred -0.037
+  APOE     rs7412       found in the screen            b +0.082 (se 0.055, p 1.4e-01, pooled) | AFR alone +0.318 (se 0.195) | freq AFR 0.10 HI-WH 0.04 AA 0.10 HI-MU 0.06 | pred +0.010
+  SNAP25   rs362562     cis-pQTL (v1.5 table)          b -0.005 (se 0.004, p 2.3e-01, pooled) | AFR alone +0.003 (se 0.013) | freq AFR 0.26 HI-WH 0.40 AA 0.27 HI-MU 0.36 | pred +0.001
+  APOE4    rs141622900  found in the screen            b +0.206 (se 0.171, p 2.3e-01, pooled) | AFR alone -0.007 (se 0.879) | freq AFR 0.11 HI-WH 0.03 AA 0.08 HI-MU 0.05 | pred +0.032
+  CHI3L1   rs10158980   cis-pQTL (v1.5 table)          b -0.051 (se 0.045, p 2.5e-01, pooled) | AFR alone +0.109 (se 0.153) | freq AFR 0.55 HI-WH 0.29 AA 0.47 HI-MU 0.31 | pred -0.027
+  BDNF     rs6265       Val66Met (cis)                 b -0.052 (se 0.051, p 3.1e-01, 2025) | AFR alone +0.197 (se 1.184) | freq AFR 0.00 HI-WH 0.15 AA 0.04 HI-MU 0.12 | pred +0.015
+  IGF1R    rs3743249    cis-pQTL (v1.5 table)          b +0.007 (se 0.008, p 3.8e-01, pooled) | AFR alone +0.009 (se 0.033) | freq AFR 0.52 HI-WH 0.33 AA 0.54 HI-MU 0.40 | pred +0.003
+  CCL3     rs1130371    cis-pQTL (v1.5 table)          b -0.046 (se 0.062, p 4.6e-01, pooled) | AFR alone -0.197 (se 0.304) | freq AFR 0.10 HI-WH 0.21 AA 0.13 HI-MU 0.15 | pred +0.010
+  APOE4    rs61679753   found in the screen            b +0.097 (se 0.160, p 5.5e-01, pooled) | AFR alone -0.331 (se 0.847) | freq AFR 0.12 HI-WH 0.03 AA 0.11 HI-MU 0.05 | pred +0.017
+  ICAM1    rs2358581    cis-pQTL (v1.5 table)          b -0.008 (se 0.015, p 6.1e-01, 2025) | AFR alone -0.082 (se 0.040) | freq AFR 0.57 HI-WH 0.77 AA 0.59 HI-MU 0.70 | pred +0.003
+  ARSA     rs6151429    pseudodeficiency allele (cis)  b +0.026 (se 0.055, p 6.4e-01, 2025) | AFR alone NA (se NA) | freq AFR 0.00 HI-WH 0.06 AA 0.01 HI-MU 0.05 | pred -0.003
+  APOE     rs148353395  found in the screen            b -0.013 (se 0.034, p 6.9e-01, pooled) | AFR alone +0.029 (se 0.088) | freq AFR 0.15 HI-WH 0.02 AA 0.13 HI-MU 0.04 | pred -0.003
+  APOE     rs61679753   found in the screen            b +0.015 (se 0.046, p 7.5e-01, pooled) | AFR alone +0.028 (se 0.158) | freq AFR 0.12 HI-WH 0.03 AA 0.11 HI-MU 0.05 | pred +0.003
+  VCAM1    rs12240047   cis-pQTL (v1.5 table)          b -0.006 (se 0.019, p 7.6e-01, pooled) | AFR alone -0.134 (se 0.194) | freq AFR 0.02 HI-WH 0.20 AA 0.05 HI-MU 0.18 | pred +0.002
+  SNCA     rs356219     3' variant (cis)               b -0.003 (se 0.015, p 8.3e-01, pooled) | AFR alone -0.089 (se 0.078) | freq AFR 0.30 HI-WH 0.59 AA 0.37 HI-MU 0.50 | pred +0.002
+  APOE4    rs148353395  found in the screen            b +0.006 (se 0.117, p 9.6e-01, pooled) | AFR alone -0.260 (se 0.473) | freq AFR 0.15 HI-WH 0.02 AA 0.13 HI-MU 0.04 | pred +0.002
+  FGF2     rs11721914   cis-pQTL (v1.5 table)          b -0.000 (se 0.052, p 1.0e+00, pooled) | AFR alone +0.073 (se 0.244) | freq AFR 0.08 HI-WH 0.31 AA 0.09 HI-MU 0.24 | pred +0.000
+
+== Per protein: observed African-born minus HI-WH at NCI (main model) vs genotype-predicted (log2 units)
+  APOE4    obs +3.02 (FDR 1e-06)  pred +3.140 (se 0.062)  share +104%  variant confirmed | in the 49
+  ARSA     obs +2.43 (FDR 5e-05)  pred -0.003 (se 0.006)  share -0%  variant not confirmed | in the 49
+  MME      obs -2.21 (FDR 4e-14)  pred -0.059 (se 0.029)  share +3%  variant not confirmed | in the 49
+  CHIT1    obs +1.98 (FDR 1e-14)  pred +1.534 (se 0.051)  share +78%  variant confirmed | in the 49
+  FGF2     obs -1.85 (FDR 0.0004)  pred +0.037 (se 0.025)  share -2%  variant confirmed | in the 49
+  TIMP3    obs -1.23 (FDR 1e-05)  pred -0.184 (se 0.021)  share +15%  variant confirmed | in the 49
+  CCL26    obs -1.15 (FDR 1e-06)  pred -0.808 (se 0.062)  share +70%  variant confirmed | in the 49
+  NPY      obs -1.03 (FDR 0.02)  pred +0.019 (se 0.010)  share -2%  variant not confirmed | in the 49
+  CCL3     obs +0.92 (FDR 0.0007)  pred +0.010 (se 0.013)  share +1%  variant not confirmed | in the 49
+  IL6R     obs -0.68 (FDR 5e-10)  pred -0.311 (se 0.026)  share +45%  variant confirmed | in the 49
+  CCL2     obs -0.61 (FDR 0.003)  pred -1.182 (se 0.055)  share +193%  variant confirmed | in the 49
+  CCL4     obs +0.55 (FDR 0.02)  pred +0.092 (se 0.009)  share +17%  variant confirmed | in the 49
+  SMOC1    obs -0.53 (FDR 0.0004)  pred -0.075 (se 0.015)  share +14%  variant confirmed | in the 49
+  CCL17    obs +0.44 (FDR 0.05)  pred +0.855 (se 0.080)  share +195%  variant confirmed | in the 49
+  SNCA     obs -0.37 (FDR 0.05)  pred +0.002 (se 0.008)  share -0%  variant not confirmed | in the 49
+  CHI3L1   obs +0.33 (FDR 0.1)  pred -0.113 (se 0.050)  share -35%  variant confirmed
+  BDNF     obs -0.32 (FDR 0.2)  pred +0.015 (se 0.015)  share -5%  variant not confirmed
+  IL6      obs +0.29 (FDR 0.09)  pred -0.092 (se 0.016)  share -32%  variant confirmed
+  VCAM1    obs +0.19 (FDR 0.007)  pred +0.002 (se 0.007)  share +1%  variant not confirmed | in the 49
+  IGF1R    obs +0.19 (FDR 0.001)  pred +0.003 (se 0.003)  share +1%  variant not confirmed | in the 49
+  ICAM1    obs +0.19 (FDR 0.01)  pred +0.003 (se 0.006)  share +2%  variant not confirmed | in the 49
+  TREM2    obs +0.18 (FDR 0.2)  pred -0.235 (se 0.018)  share -130%  variant confirmed
+  APOE     obs -0.16 (FDR 0.09)  pred -0.029 (se 0.018)  share +18%  variant confirmed
+  CCL22    obs +0.13 (FDR 0.3)  pred +0.033 (se 0.008)  share +24%  variant confirmed
+  ACHE     obs -0.06 (FDR 0.4)  pred -0.033 (se 0.012)  share +51%  variant confirmed
+  BD_MAPT  obs +0.05 (FDR 0.4)  pred -0.002 (se 0.001)  share -5%  variant not confirmed
+  SNAP25   obs +0.05 (FDR 0.003)  pred +0.001 (se 0.001)  share +3%  variant not confirmed | in the 49
+  ANXA5    obs +0.04 (FDR 0.9)  pred +0.102 (se 0.013)  share +290%  variant confirmed
+  GDF15    obs +0.03 (FDR 0.9)  pred +0.241 (se 0.006)  share +789%  variant confirmed
+  FABP3    obs +0.03 (FDR 0.8)  pred +0.016 (se 0.010)  share +56%  variant not confirmed
+  IGFBP7   obs +0.02 (FDR 0.8)  pred +0.001 (se 0.001)  share +6%  variant confirmed
+  of the 49, covered: 19 (APOE4, ARSA, CCL17, CCL2, CCL26, CCL3, CCL4, CHIT1, FGF2, ICAM1, IGF1R, IL6R, MME, NPY, SMOC1, SNAP25, SNCA, TIMP3, VCAM1); with a confirmed variant: 10
+  confirmed and in the 49, share of the observed difference the genotype predicts: APOE4 +104%; CCL17 +195%; CCL2 +193%; CCL26 +70%; CCL4 +17%; CHIT1 +78%; FGF2 -2%; IL6R +45%; SMOC1 +14%; TIMP3 +15%
+  Spearman rho predicted vs observed, 30 proteins (APOE4 control out): 0.35 (p 0.057)
+
+Fig 3b (WGS): 9 rows (placed 8.5 x 6.8 in): FGF2 chr4 indel -2%; TIMP3 rs4339044 15%; CCL26 Duffy-null 70%; IL6R Asp358Ala 45%; CCL2 Duffy-null 193%; SMOC1 rs1958078 14%; CCL17 Duffy-null‡ 195%; CCL4 rs1130371 17%; CHIT1 24-bp dup 78%; control APOE4 obs +3.02, pred +3.14 (104%)
+  ‡ CCL17: rs9302690 + rs2814778
+  in the 49, covered, but no variant moves the protein in this cohort: ARSA, CCL3, ICAM1, IGF1R, MME, NPY, SNAP25, SNCA, VCAM1
+  pQTL figure CHIT1: AFR vs HI-WH among NCI with WGS (n 927): +1.55 (se 0.53, p 0.0034) without the genotype; +0.05 (se 0.47, p 0.92) with rs150192398 dose in the model
+  pQTL figure CHIT1 rs150192398 (24-bp dup; 24-bp duplication (cis)): per-allele b -3.303; freq HI-WH 0.26 HI-MU 0.21 AA 0.05 AFR 0.02; African vs HI-WH: genotype predicts 78% (this variant), 78% (all confirmed variants, on the panel); NCI cells HI-WH/0 n 84 +13.91; HI-WH/1 n 54 +12.96; HI-WH/2 n 10 +1.56; HI-MU/0 n 163 +13.86; HI-MU/1 n 96 +12.53; HI-MU/2 n 13 +2.44; AA/0 n 379 +13.82; AA/1 n 30 +12.72; AFR/0 n 91 +14.57
+  pQTL figure IL6R: AFR vs HI-WH among NCI with WGS (n 1149): -0.35 (se 0.10, p 0.00068) without the genotype; -0.03 (se 0.09, p 0.73) with rs2228145 dose in the model
+  pQTL figure IL6R rs2228145 (Asp358Ala; Asp358Ala (cis)): per-allele b +0.405; freq HI-WH 0.43 HI-MU 0.41 AA 0.13 AFR 0.09; African vs HI-WH: genotype predicts 40% (this variant), 45% (all confirmed variants, on the panel); NCI cells HI-WH/0 n 47 +11.90; HI-WH/1 n 72 +12.33; HI-WH/2 n 31 +12.64; HI-MU/0 n 104 +11.83; HI-MU/1 n 129 +12.28; HI-MU/2 n 40 +12.62; AA/0 n 468 +11.78; AA/1 n 150 +12.23; AA/2 n 12 +12.79; AFR/0 n 79 +11.84; AFR/1 n 15 +12.24
+  pQTL figure TIMP3: AFR vs HI-WH among NCI with WGS (n 1149): -0.13 (se 0.42, p 0.75) without the genotype; +0.01 (se 0.41, p 0.99) with rs4339044 dose in the model
+  pQTL figure TIMP3 rs4339044 (rs4339044; cis-pQTL (v1.5 table)): per-allele b +0.635; freq HI-WH 0.17 HI-MU 0.10 AA 0.04 AFR 0.02; African vs HI-WH: genotype predicts 15% (this variant), 15% (all confirmed variants, on the panel); NCI cells HI-WH/0 n 103 +15.72; HI-WH/1 n 45 +16.56; HI-MU/0 n 219 +15.62; HI-MU/1 n 50 +16.31; AA/0 n 572 +14.58; AA/1 n 58 +15.62; AFR/0 n 92 +15.76
+pQTL figure (fig_pqtl_dose_freq, 17 x 10.5 in placed): CHIT1, IL6R, TIMP3

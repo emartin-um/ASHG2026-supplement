@@ -1,0 +1,20 @@
+== what each term of the main model moves (dropped one at a time; NCI contrasts vs HI-WH, FDR < 0.05 of 126)
+main model: AFR 49, AA 38, HI-MU 3, interactions 12
+dropped                     AFR   AA HI-MU  int  |shift| 49    |b| ratio 49  max shift
+- site                       68   52    36   16  0.063         0.98          0.69 (S100A12)
+- run/bay                    56   40     3   11  0.019         0.99          0.23 (NPY)
+- log2 reads                 51   39     3   14  0.027         1.00          0.13 (IL9)
+- cell score                 46   34     4   17  0.027         1.00          0.22 (S100A12)
+- age                        47   38     9   17  0.008         1.00          0.06 (GFAP)
+- sex                        46   38     3   11  0.016         1.00          0.24 (SAA1)
+- x0.5 anchor (cell arm)     46   41     3   12  0.033         0.99          0.33 (CHIT1)
+- both (old main arm)        49   37     4   17  0.050         1.00          0.24 (S100A12)
+  - site: AFR out [IL17A] in [ANXA5 APOE CCL11 CHI3L1 HTT IL10 NRGN POSTN pSNCA_129 SFTPD TREM2 CXCL8 Oligo_SNCA PSEN1 TAFA5 pTau_231 SNCB UCHL1 IFNG IL6]; interactions out [pSNCA_129 SAA1] in [CCL13 NRGN S100A12 FGF2 IL7 Oligo_SNCA]
+  - run/bay: AFR out [SNAP25] in [APOE IGFBP7 IL10 BD_pTau_181 Oligo_SNCA PSEN1 CNTN2 IL33]; interactions out [SAA1 IL1B] in [NRGN]
+  - log2 reads: AFR out [CCL17 FOLR1] in [IL10 NRGN PSEN1 IL33]; interactions out [IL1B] in [CCL13 NRGN IL7]
+  - cell score: AFR out [CD40LG PRDX6 SNCA pTDP43_409 FOLR1] in [IL10 IL4]; interactions out [TIMP3] in [IL16 PRDX6 SNCA ARSA A_42 Oligo_SNCA]
+  - age: AFR out [CCL17 FOLR1] in []; interactions out [IL1B] in [SNCA VCAM1 FGF2 GFAP Oligo_SNCA pTau_231]
+  - sex: AFR out [SNCA GFAP IL17A pTDP43_409] in [APOE]; interactions out [IL1B] in []
+  - x0.5 anchor (cell arm): AFR out [SNCA IL17A pTDP43_409 FOLR1] in [IL10]; interactions out [] in []
+  - both (old main arm): AFR out [PRDX6 SNCA IL17A pTDP43_409 FOLR1] in [IL10 TREM2 IL33 IL4 IL6]; interactions out [TIMP3] in [IL16 PRDX6 SNCA ARSA A_42 Oligo_SNCA]
+ranked by the median shift of the 49 African NCI differences: site 0.063; both (old main arm) 0.050; x0.5 anchor (cell arm) 0.033; cell score 0.027; log2 reads 0.027; run/bay 0.019; sex 0.016; age 0.008

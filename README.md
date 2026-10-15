@@ -8,14 +8,35 @@ Eden R. Martin, Tianjie Gu, Olabode Omotoso, Lissette Gomez, Maryanella Illanes-
 
 ---
 
-This is the supplement behind the poster's QR code. It fills in by Monday 19 October 2026 with:
+This is the supplement behind the poster's QR code.
 
-- the poster (PDF and PowerPoint)
-- detailed methods and the model specification
-- the model-term table: how much each term (site, assay run, the run anchor, the blood-cell score, reads, age, sex) moves the African baseline differences
-- the six-arm sensitivity matrix for the ancestry × diagnosis interactions
-- the five-panel cohort figure
-- per-lot tables for the baseline differences and the AD effects
-- the full genotype (pQTL) table
+## The poster
+- `poster/ASHG2026_Poster_Martin_36x72.pdf` and `poster/ASHG2026_Poster_Martin_36x72.pptx` (36 x 72 in; the file is built at 24 x 48 in and prints at 150%).
+
+## Methods
+- `METHODS.md`: participants, the assay, plates and reagent lots, the model and why each term is in it, the tests, APOE ε4, the genotype prediction, the regional contrasts, the cut-points, the sensitivity arms.
+
+## Figures (`figures/`)
+- `figS1_cohort_5panel.png`: the cohort in five panels, diagnosis, birthplace, sex, age and recruitment place by group.
+- `fig2a_afr_caterpillar.png`: the 49 proteins that differ between African and HI-WH cognitively normal participants, each lot alone.
+- `fig_pqtl_dose_freq.png`: CHIT1, IL6R and TIMP3 by allele dose within group, and each group's difference against its allele frequency.
+- `fig3a_e4_by_group.png` and `fig3a_e4_by_group_nci.png`: the ε4 slope on p-tau and NEFL by group and lot, all diagnoses and cognitively normal only (the poster carries this as text).
+- `fig4a_interaction_arms.png`: the ancestry × diagnosis interactions under six model arms.
+- `fig4b_ad_effect_by_group.png`: AD minus cognitively normal within each group, both lots, eight markers.
+- `fig5_regional.png`: Andean vs Caribbean within one site; East vs West Africa with site in the model.
+- `fig6_cutpoint_by_group.png`: one cut-point per lot applied to every group, five markers.
+
+## Tables (`tables/`)
+- `per_marker_results.csv`: the main model, every target: the ancestry omnibus, the NCI omnibus, the three contrasts vs HI-WH with their lot basis and between-lot I², the ancestry × diagnosis test, the APOE adjustment.
+- `term_contributions.csv` and `term_contributions_numbers.txt`: what each model term moves.
+- `afr_nci_by_lot.csv`: the African vs HI-WH difference at NCI in each lot, every target.
+- `ad_effect_by_group.csv`, `interaction_2026lot.csv`: the AD effect within group and the lot-2 replication of the interactions.
+- `cutpoint_by_group_lot.csv`, `bdptau217_cut_by_site_lot.csv`: the cut-point results by group and by site.
+- `e4_slope_by_group_lot.csv`, `e4_slope_by_group_lot_nci.csv`: the ε4 slopes.
+- `regional_results.csv`: the regional contrasts, every design.
+- `aa_gradient.csv`: the AA vs HI-WH difference against the African vs HI-WH difference, per protein.
+- `wgs_pqtl_pairs.csv`, `wgs_pqtl_per_protein.csv`, `wgs_pqtl_screen.csv`, `wgs_pqtl_numbers.txt`: the full genotype table, per variant, per protein, and the screen.
+
+No individual-level data are here. Proteins are named by HGNC symbol.
 
 Questions: emartin1@miami.edu
