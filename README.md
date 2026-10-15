@@ -18,12 +18,14 @@ This is the supplement behind the poster's QR code.
 
 ## Figures (`figures/`)
 - `figS1_cohort_5panel.png`: the cohort in five panels, diagnosis, birthplace, sex, age and recruitment place by group.
-- `fig2a_afr_caterpillar.png`: the 49 proteins that differ between African and HI-WH cognitively normal participants, each lot alone.
+- `fig2a_afr_caterpillar.png`: the 49 proteins that differ between African and HI-WH cognitively normal participants, a bar for the main-model estimate and a dot for each lot.
 - `fig_pqtl_dose_freq.png`: CHIT1, IL6R and TIMP3 by allele dose within group, and each group's difference against its allele frequency.
 - `fig3a_e4_by_group.png` and `fig3a_e4_by_group_nci.png`: the ε4 slope on p-tau and NEFL by group and lot, all diagnoses and cognitively normal only (the poster carries this as text).
 - `fig4a_interaction_arms.png`: the ancestry × diagnosis interactions under six model arms.
-- `fig4b_ad_effect_by_group.png`: AD minus cognitively normal within each group, both lots, eight markers.
-- `fig5_regional.png`: Peruvian and Ecuadorian vs Caribbean within one site; East vs West Africa with site in the model.
+- `fig4b_stage_by_group.png`: pTau-217, BD-pTau-217, NEFL and GFAP at NCI, MCI and AD in each group, relative to HI-WH cognitively normal, each lot alone (the poster's section 2 figure).
+- `fig4b_ad_effect_by_group.png`: AD minus cognitively normal within each group, both lots, eight markers, Aβ42, TREM2, pSNCA-129 and SNCA among them (on the poster until 2026-10-15).
+- `fig5_regional.png`: Peruvian and Ecuadorian vs Caribbean over all sites and inside one New York site; East vs West Africa with site in the model.
+- `fig5_regional_onesite_by_lot.png`: the proteins that differ with site separated (10 inside one New York site, 5 East vs West Africa), each lot alone, coloured by function.
 - `fig6_cutpoint_by_group.png`: one cut-point per lot applied to every group, five markers.
 
 ## Tables (`tables/`)

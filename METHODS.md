@@ -87,7 +87,10 @@ p-values, in tables/site_inference.csv). The poster reports the bootstrap count.
    49 (AFR), 38 (AA) and 3 (HI-MU) [section 1].
 4. Ancestry × diagnosis: ancestry × diagnosis + covariates against ancestry + diagnosis + covariates, in NCI, MCI and
    AD (4,087 participants; 6 df per lot). The poster's 12 [section 2].
-5. AD effect within group: AD minus NCI in each group, from the REML fit of model 4, gated across lots [Fig 4b].
+5. AD effect within group: AD minus NCI in each group, from the REML fit of model 4, gated across lots [supplement,
+   fig4b_ad_effect_by_group].
+6. Level by diagnosis stage: NCI, MCI and AD in each group relative to HI-WH NCI, from the REML fit of model 4, each
+   lot alone [Fig 4b]. It is cross-sectional: different people at each stage, not one person followed over time.
 
 ## APOE ε4
 
@@ -124,10 +127,14 @@ number.
 Two contrasts designed so that region is not the same thing as recruitment site. Peruvian and Ecuadorian versus
 Caribbean HI-MU inside one New York site (CU: 53 born in Peru, Ecuador or Bolivia (25, 27, 1), 379 Caribbean; region +
 diagnosis + covariates + (1 | run / bay)), because 197 of the 260 HI-MU participants born in Peru, Ecuador, Bolivia or
-Chile come from the Peru site, which no Caribbean participant attends. East versus West Africa within the
+Chile come from the Peru site, which no Caribbean participant attends. The poster also gives the contrast over all sites (848 HI-MU: 260 vs 588;
+site random): 22 of 126 at FDR < 0.05, 8 of the one-site 10 among them (SAA1 and CST3 differ only inside the site).
+The 14 others are all higher in Peruvian and Ecuadorian participants, as an offset at the Peru site would be, so over
+all sites region and the Peru site cannot be separated. East versus West Africa within the
 African group, region being the recruiting site's country (West: Nigeria, Ghana, Cameroon; East: Ethiopia, Kenya,
 Tanzania, Uganda, Mozambique), with region fixed and site random, so the contrast is tested against site-to-site
-variation. Both fitted within lot and combined as above. Fig 5 shows the survivors with a functional category
+variation. Both fitted within lot and combined as above. Fig 5 shows both Peruvian and Ecuadorian estimates for the 24 proteins
+that differ in either design, and names the 15 that hold with site separated in bold, coloured by a functional category
 (immune, vascular, neuronal / synaptic, amyloid / proteolysis, epithelial / transport).
 
 ## Cut-points [section 2]
