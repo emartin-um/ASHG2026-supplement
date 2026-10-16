@@ -18,8 +18,9 @@ This is the supplement behind the poster's QR code.
 
 ## Figures (`figures/`)
 - `figS1_cohort_5panel.png`: the cohort in five panels, diagnosis, birthplace, sex, age and recruitment place by group.
-- `fig2a_afr_caterpillar.png`: the 49 proteins that differ between African and HI-WH cognitively normal participants, a bar for the main-model estimate and a dot for each lot.
-- `fig_pqtl_dose_freq.png`: CHIT1, IL6R and TIMP3 by allele dose within group, and each group's difference against its allele frequency.
+- `fig2a_afr_caterpillar.png`: the 49 proteins that differ between African and HI-WH cognitively normal participants, lot 1 and lot 2 joined by a line.
+- `fig_pqtl_dose_freq.png`: CHIT1, IL6R and TIMP3 by allele dose within group, and each group's NPQ at NCI (the HI-WH level plus its within-lot difference from HI-WH) against its allele frequency, with the level expected from HI-WH and the per-allele effect.
+- `figS_pqtl_dose_freq_lot1.png` and `figS_pqtl_dose_freq_lot2.png`: the same figure with every fit inside one reagent lot.
 - `fig3a_e4_by_group.png` and `fig3a_e4_by_group_nci.png`: the ε4 slope on p-tau and NEFL by group and lot, all diagnoses and cognitively normal only (the poster carries this as text).
 - `fig4a_interaction_arms.png`: the ancestry × diagnosis interactions under six model arms.
 - `fig4b_stage_by_group.png`: pTau-217, BD-pTau-217, NEFL and GFAP at NCI, MCI and AD in each group, relative to HI-WH cognitively normal, each lot alone (the poster's section 2 figure).

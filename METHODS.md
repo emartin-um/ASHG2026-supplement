@@ -22,8 +22,8 @@ diagnostic level and is left out of every test that compares diagnoses. One bloo
 
 ## Assay
 
-Plasma proteins were measured on the NULISAseq CNS Disease Panel (Alamar Biosciences), 131 targets, reported as log2
-Normalized Protein Quantification (NPQ). Every plate passed the HIHG QC pipeline. Per-well total sequencing reads come
+Plasma proteins were measured on the NULISAseq CNS Disease Panel (Alamar Biosciences), 131 targets, reported as
+NULISA Protein Quantification (NPQ), a log2 relative level. Every plate passed the HIHG QC pipeline. Per-well total sequencing reads come
 from the instrument's sample QC file and enter every model as log2(reads). Five targets read red-cell lysis rather than
 plasma (HBA1, PGK1, MDH1, SOD1, ENO2); three of them are also in the module that builds the blood-cell score below. They
 are fitted but left out of every FDR denominator, so counts are out of 126 proteins.
